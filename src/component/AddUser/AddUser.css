@@ -1,0 +1,15 @@
+.form-group{
+           height: 200px;
+           width:40%;
+        display:flex;
+        flex-direction:column;
+        justify-content:space-around;
+        border-top: 5px solid pink;
+}
+.form-control{
+    height: 90px;
+   
+ display:flex;
+ flex-direction:column;
+ justify-content:space-around;
+}
