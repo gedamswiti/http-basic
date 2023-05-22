@@ -1,15 +1,22 @@
 .form-group{
-           height: 200px;
-           width:40%;
-        display:flex;
-        flex-direction:column;
-        justify-content:space-around;
-        border-top: 5px solid pink;
+   border-top: 5px solid grey;
+   width: 60%;
+   height: 109px;
+   display: flex;
+   flex-direction: column;
+   justify-content: space-around;
 }
 .form-control{
-    height: 90px;
-   
- display:flex;
- flex-direction:column;
- justify-content:space-around;
+   height: 171px;
+   width: 60%;
+
+   display: flex;
+   flex-direction: column;
+   justify-content: space-around;
+}
+.bt-add{
+   margin-top: 10px;
+   width: 100px;
+   height: 20px;
+   text-align: center;
 }
